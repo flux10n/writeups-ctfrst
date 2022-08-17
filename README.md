@@ -1,4 +1,4 @@
 # writeups-ctfrst
 
-site ['ctfrst'](#)
+site [ctfrst](#)
 
